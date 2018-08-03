@@ -4,7 +4,17 @@
 <p>LiteSpeed Web Server is an Apache-interchangeable, high performance, secure, easy-to-use web server. It can handle thousands of concurrent connections with a small memory footprint. Its security features also make it much less vulnerable to various attacks.
 </p>
 
-<h3>Basic Features</h3>
+<h3>LiteSpeed Exclusive Features</h3>
+<ul>
+  <li>Apache Drop-In Replacement</li>
+  <li>HTTP/2 Support</li>
+  <li>QUIC Support</li>
+  <li>Zero Downtime</li>
+  <li>Anti-DDoS Advances</li>
+  <li>Event-Driven Architecture</li>
+</ul>
+
+<h3>Features</h3>
 
 <ul>
   <li><p><strong>HTTP/1.1</strong></p>
